@@ -1,0 +1,20 @@
+[
+    {
+        "question": "1. What is the capital of France?",
+        "options": {
+            "A": "A. Berlin",
+            "B": "B. Madrid",
+            "C": "C. Paris",
+            "D": "D. Lisbon"
+        }
+    },
+    {
+        "question": "2. Who wrote Hamlet?",
+        "options": {
+            "A": "A. Mark Twain",
+            "B": "B. William Shakespeare",
+            "C": "C. Jane Austen",
+            "D": "D. Charles Dickens"
+        }
+    }
+]
